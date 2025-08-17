@@ -41,7 +41,7 @@ python plot_walk.py
 ```
 random-ant-walk/
 │── randomwalk.py     # RandomWalk class (core logic)
-│── plot_walk.py      # Main script to run and plot walks
+│── plotant.py      # Main script to run and plot walks
 │── requirements.txt  # Dependencies
 │── README.md         # Documentation
 ```
